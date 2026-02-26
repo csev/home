@@ -8,7 +8,7 @@ body { background: black; font-family: Arial,Helvetica,Verdana,Sans-Serif; color
 body table { font-size: 11pt; }
 a:link, a:visited, a:active { color: gray; text-decoration: none; font-weight: bold}
 a:hover { color: orange; }
-a:focus { color: orange; outline: 2px solid orange; outline-offset: 2px; }
+a:focus-visible { color: orange; outline: 2px solid orange; outline-offset: 2px; }
 .skip-link { position: absolute; top: -40px; left: 0; background: orange; color: black; padding: 8px; z-index: 100; }
 .skip-link:focus { top: 0; }
 .visually-hidden { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
@@ -49,11 +49,7 @@ em {color: yellow; font-style: normal;}
 </td>
 <td valign="top" id="main-content" tabindex="-1">
 <h1 class="visually-hidden">Dr. Charles R. Severance Home Page</h1>
-<!--
-<strong>
-New:
-</strong>
--->
+
 <h2>Free Courses / Educational Material</h2>
 <p>
 <br> &nbsp;
@@ -71,7 +67,7 @@ New:
 <br> &nbsp;
 <a href="https://www.ca4e.com/" target="_blank" rel="noopener noreferrer">Computer Architecture for Everybody</a>
 <br> &nbsp;
-<a href="/office" target="_blank" rel="noopener noreferrer">Dr. Chuck Office Hours Around the World</a> <br/>
+<a href="office/index.htm" target="_blank" rel="noopener noreferrer">Dr. Chuck Office Hours Around the World</a> <br/>
 </p>
 <h2>Software</h2>
 <p>
