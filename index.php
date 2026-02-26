@@ -5,9 +5,8 @@
   <meta name="verify-v1" content="WQuA2ZPREiCyTlgNh/fv0jvzKJxrpzlagjiPaakSNH0=" />
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="google-translate-customization" content="502d2c1a267d1206-8efe060c714e194c-g94a06c6c571083ae-11">
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.dr-chuck.com/csev-blog/index.rdf" />
-  <link rel="alternate" type="application/atom+xml" title="Atom" href="https://www.dr-chuck.com/csev-blog/atom.xml" />
+  <link rel="alternate" type="application/rss+xml" href="https://www.dr-chuck.com/csev-blog/index.rdf" />
+  <link rel="alternate" type="application/atom+xml" href="https://www.dr-chuck.com/csev-blog/atom.xml" />
   <style>
     * { box-sizing: border-box; }
     body {
@@ -117,7 +116,7 @@
   <div class="layout" role="presentation">
     <aside class="sidebar" role="complementary" aria-label="Profile and links">
       <a href="https://www.learnerprivacy.org/" aria-label="Photo of Dr. Charles Severance - LearnerPrivacy.org">
-        <img src="Chuck_Square_B&amp;W.jpg" alt="Photo of Dr. Charles R. Severance">
+        <img src="Chuck_Square_B&amp;W.jpg" alt="">
       </a>
       <nav aria-label="Quick links">
         <ul>
@@ -140,7 +139,7 @@
     </aside>
 
     <main class="main-content" id="main-content" tabindex="-1" role="main">
-      <h1 class="visually-hidden">Dr. Charles R. Severance Home Page</h1>
+      <h1 class="visually-hidden">Dr. Charles R. Severance</h1>
 
       <h2>Free Courses / Educational Material</h2>
       <ul>
